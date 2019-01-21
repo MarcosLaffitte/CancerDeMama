@@ -1,4 +1,4 @@
-> Aprendizaje automático con propiedades de redes de regulación genética en cáncer de mama
+# Aprendizaje automático con propiedades de redes de regulación genética en cáncer de mama
 
 > hecho por: Marcos Laffitte - como parte de su tesis para Licenciatura en Tecnología - UNAM - CFATA
 
