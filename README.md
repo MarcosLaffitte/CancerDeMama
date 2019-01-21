@@ -1,4 +1,7 @@
-Aprendizaje automático con propiedades de redes de regulación genética en cáncer de mama
+> Aprendizaje automático con propiedades de redes de regulación genética en cáncer de mama
+
+> hecho por: Marcos Laffitte - como parte de su tesis para Licenciatura en Tecnología - UNAM - CFATA
+
 
 I) Pipeline:
 
@@ -37,6 +40,3 @@ dicts - /Lista_de_pares_de_entrenamiento/ParesEntrenamiento.txt
 comando - python3.5 VisualizarPares.py datosRedes.pickle
 
 output - ParesEntrenamiento.txt
-
-
-hecho por: Marcos Laffitte - como parte de su tesis para Licenciatura en Tecnología - UNAM - CFATA
