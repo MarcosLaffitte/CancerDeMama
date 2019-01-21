@@ -39,4 +39,4 @@ comando - python3.5 VisualizarPares.py datosRedes.pickle
 output - ParesEntrenamiento.txt
 
 
-hecho por: Marcos Laffitte - como parte de su tesis para Licenciatura n Tecnología - UNAM - CFATA
+hecho por: Marcos Laffitte - como parte de su tesis para Licenciatura en Tecnología - UNAM - CFATA
